@@ -9,7 +9,8 @@ I have changed this code little bit and make it able to detect human expression 
 
 # Create a image directory where do you put your images.
 
-``` mkdir images
+``` 
+    mkdir images
     
     cd images
     
